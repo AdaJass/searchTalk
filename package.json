@@ -1,0 +1,40 @@
+{
+  "name": "ssearch",
+  "version": "0.0.1",
+  "start": "coffee app",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-body": "latest",
+    "co-mongo": "",
+    "co-views": "latest",
+    "koa": "latest",
+    "koa-logger": "latest",
+    "koa-route": "latest",
+    "koa-static": "^1.5.1",
+    "koa-swig": "latest",
+    "swig": "latest"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "coffee-script": "latest",
+    "del": "latest",
+    "gulp": "^3.9.0",
+    "gulp-bootlint": "^0.7.1",
+    "gulp-browserify": "latest",
+    "gulp-coffee": "latest",
+    "gulp-coffeelint": "^0.5.0",
+    "gulp-concat": "latest",
+    "gulp-cssmin": "latest",
+    "gulp-jshint": "latest",
+    "gulp-less": "latest",
+    "gulp-livereload": "latest",
+    "gulp-nodemon": "latest",
+    "gulp-rename": "^1.2.2",
+    "gulp-sync": "latest",
+    "gulp-uglify": "latest",
+    "gulp-util": "latest",
+    "micromatch": "^2.2.0",
+    "run-sequence": "^1.1.4",
+    "yargs": "^3.27.0"
+  }
+}
